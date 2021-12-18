@@ -14,7 +14,7 @@
   "url": "https://github.com/Moerill/token-mold",
   "bugs": "https://github.com/Moerill/token-mold/issues",
   "flags": {},
-  "version": "2.14.0",
+  "version": "2.14.0-adotor",
   "minimumCoreVersion": "0.8.4",
   "compatibleCoreVersion": "9.233",
   "scripts": [],
@@ -60,8 +60,8 @@
   "system": [],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/Moerill/token-mold/master/module.json",
-  "download": "https://github.com/Moerill/token-mold/releases/download/v2.14.0/v2.14.0.zip",
+  "manifest": "https://raw.githubusercontent.com/adotor/token-mold/private-release/module.json",
+  "download": "https://github.com/adotor/token-mold/archive/private-release.zip",
   "protected": false,
   "coreTranslation": false
 }
