@@ -60,8 +60,8 @@
   "system": [],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/adotor/token-mold/private-release/module.json",
-  "download": "https://github.com/adotor/token-mold/archive/private-release.zip",
+  "manifest": "https://raw.githubusercontent.com/adotor/token-mold/dcc-release/module.json",
+  "download": "https://github.com/adotor/token-mold/archive/dcc-release.zip",
   "protected": false,
   "coreTranslation": false
 }
